@@ -36,9 +36,11 @@ The project addresses the following key questions:
 
 ## **Files**
 
- - retail_orders_data_analysis.ipynb: Jupyter Notebook containing the data analysis code.
+- [retail_orders_data_analysis.ipynb](https://github.com/Shyam0801/Retail_Orders_Data_Analysis/blob/main/retail_orders_data_analysis.ipynb): Jupyter Notebook containing the data analysis code.
+- [retail_orders_data_analysis.sql](https://github.com/Shyam0801/Retail_Orders_Data_Analysis/blob/main/retail_orders_data_analysis.sql): SQL file containing the queries used for analysis.
+- [orders.csv](https://github.com/Shyam0801/Retail_Orders_Data_Analysis/blob/main/orders.csv): Raw CSV file, which is extracted from Kaggle API.
+- [retail_orders.csv](https://github.com/Shyam0801/Retail_Orders_Data_Analysis/blob/main/retail_orders.csv): Final CSV file, retrieved from the Jupyter Notebook after the data cleaning and other processes.
 
- - retail_orders_data_analysis.sql: SQL file containing the queries used for analysis.
 
 ## **Tools & Technologies Used**
 
@@ -48,4 +50,4 @@ The project addresses the following key questions:
  - Kaggle API is used to retrieve the dataset from Kaggle.
 
 ## **Dataset Credits**
-[Retail Orders Dataset](https://www.kaggle.com/datasets/ankitbansal06/retail-orders)
+[Retail Orders Dataset](https://www.kaggle.com/datasets/ankitbansal06/retail-orders) - Thanks to Ankit Bansal
